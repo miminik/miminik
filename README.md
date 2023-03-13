@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miminik
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning VR development using Unity
-- 💞️ I’m looking to collaborate on Android and VR Educational Games
+- 🌱 I’m currently learning VR development and 6dof Motion Platform Design
+- 💞️ I’m looking to collaborate on Motion Simulators and VR Educational Games
 - 📫 Reach me out on email mil.nikose@gmail.com
 
 <!---
